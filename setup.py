@@ -31,7 +31,7 @@ setup(
     packages=find_packages(exclude=['test*']),
     install_requires=[
         'numpy==1.15.4',
-        'scikit-learn==0.20.2',
+        'scikit-learn==1.5.0',
         'torch==1.1.0',
         'pytorch-transformers',
     ],
