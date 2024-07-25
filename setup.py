@@ -32,7 +32,7 @@ setup(
     install_requires=[
         'numpy==1.15.4',
         'scikit-learn==0.20.2',
-        'torch==1.1.0',
+        'torch==2.2.0',
         'pytorch-transformers',
     ],
     cmdclass = {
